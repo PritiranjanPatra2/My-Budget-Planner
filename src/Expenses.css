@@ -2,7 +2,7 @@
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
-    background: #fafafa;
+    background: linear-gradient(to right, #00b09b, #96c93d);
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
@@ -91,8 +91,8 @@
   
   .add-expenses-message {
     text-align: center;
-    font-weight: 900;
-    filter: drop-shadow(1px 2px 3px rgb(79, 85, 79));
+    font-weight: 600;
+    
     font-size: 2em;
     color: #000000;
   }
